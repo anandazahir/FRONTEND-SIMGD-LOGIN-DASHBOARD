@@ -22,10 +22,10 @@ npm run dev
 
 ## Demo
 
-> **Login Page**
+###Login Page###
 ![Dashboard Page](Dashboard Page.png)
 
-> **Dashboard**
+###Dashboard###
 ![Login Page](Login Page.png)
 
 # INI BELUM FIX YA
