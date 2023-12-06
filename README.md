@@ -5,7 +5,7 @@
 1. Download this or clone the repo
 
 ```bash
-git clone https://github.com/amiftachulh/car-rent.git
+git clone https://github.com/anandazahir/FRONTEND-SIMGD-LOGIN-DASHBOARD.git
 ```
 
 2. Install Depedency
