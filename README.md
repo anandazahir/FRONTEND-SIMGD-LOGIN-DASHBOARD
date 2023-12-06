@@ -22,10 +22,10 @@ npm run dev
 
 ## Demo
 
-###Login Page###
-![Dashboard Page](Dashboard Page.png)
+###Login Page
+![Dashboard Page](https://github.com/anandazahir/FRONTEND-SIMGD-LOGIN-DASHBOARD/blob/main/Dashboard%20Page.png)
 
-###Dashboard###
+###Dashboard
 ![Login Page](https://github.com/anandazahir/FRONTEND-SIMGD-LOGIN-DASHBOARD/blob/main/Dashboard%20Page.png?raw=true)
 
 # INI BELUM FIX YA
